@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.14](https://github.com/void-community/Void.Data/compare/v0.1.13...v0.1.14) (2026-09-16)
+
+
+### Features
+
+* add new resource files ([#50](https://github.com/void-community/Void.Data/issues/50)) ([558963c](https://github.com/void-community/Void.Data/commit/558963cb16c4042260259f61bb1a59b471e92603))
+* add new resource files ([#52](https://github.com/void-community/Void.Data/issues/52)) ([15a2fdc](https://github.com/void-community/Void.Data/commit/15a2fdc68fc8b69b6bcb3f1ab0800858d6d1c51a))
+
 ## [0.1.13](https://github.com/Shonz1/Void.Data/compare/v0.1.12...v0.1.13) (2026-05-23)
 
 
