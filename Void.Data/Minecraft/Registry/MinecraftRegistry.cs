@@ -44,6 +44,5 @@ internal class MinecraftRegistry
   public required MinecraftMenuRegistry MinecraftMenuRegistry { get; init; }
 
   [JsonPropertyName("minecraft:data_component_type")]
-  public required MinecraftDataComponentTypeRegistry MinecraftDataComponentTypeRegistry { get; init; }
-
+  public MinecraftDataComponentTypeRegistry? MinecraftDataComponentTypeRegistry { get; init; }
 }
