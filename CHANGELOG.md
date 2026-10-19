@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.15](https://github.com/void-community/Void.Data/compare/v0.1.14...v0.1.15) (2026-10-19)
+
+
+### Bug Fixes
+
+* make data component type registry optional for pre-1.20.5 versions ([#56](https://github.com/void-community/Void.Data/issues/56)) ([e40fc7f](https://github.com/void-community/Void.Data/commit/e40fc7f7ea518946d2a8d041592d809cacf51c63))
+
 ## [0.1.14](https://github.com/void-community/Void.Data/compare/v0.1.13...v0.1.14) (2026-09-16)
 
 
